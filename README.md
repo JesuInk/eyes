@@ -1,2 +1,4 @@
-# PacMen
-PacMen get created and move and bite across the screen bouncing off its limits and turning around. Create PacMan and start game buttons.
+# Eyes
+Two spooky Eyes look around following the mouse cursor across the screen.
+
+
